@@ -1,0 +1,23 @@
+body {
+	background: lightgrey;
+}
+
+.header1 {
+	display: table;
+	width: 100%;
+	height: 50px;
+	background: #0080ff;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.footer1 {
+	display: table;
+	width: 100%;
+	height: 40px;
+	background: black;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+}
